@@ -15,7 +15,7 @@
 ![React Native](https://img.shields.io/badge/React_Native-fff?style=for-the-badge&logo=React)
 ![Angular](https://img.shields.io/badge/Angular-fff?style=for-the-badge&logo=angular&logoColor=C3002F)
 
-## GitHub Stats
+## GitHub Status
   <div>
   <a href="https://github.com/thiagoperrud">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagoperrud&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
@@ -24,3 +24,4 @@
 
 ## Minhas contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagoperrud&repo=dio-lab-open-source&theme=codeSTACKr)](https://github.com/thiagoperrud/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagoperrud&repo=dio-lab-open-source&theme=codeSTACKr)](https://github.com/thiagoperrud/Ecommerce-PI)
