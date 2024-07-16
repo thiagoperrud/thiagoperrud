@@ -24,4 +24,4 @@
 
 ## Minhas contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagoperrud&repo=dio-lab-open-source&theme=codeSTACKr)](https://github.com/thiagoperrud/dio-lab-open-source)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagoperrud&repo=E-Commerce&theme=codeSTACKr)](https://github.com/thiagoperrud/Ecommerce-PI)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagoperrud&repo=Ecommerce-PI&theme=codeSTACKr)](https://github.com/thiagoperrud/Ecommerce-PI)
