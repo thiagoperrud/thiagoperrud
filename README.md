@@ -4,7 +4,7 @@
 ✍🏻 Aprendendo tecnologias como: Java, C#, JavaScript, SQL Server, React Native e AngularJS<br>
 
 ## Conecte-se comigo!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/thiago-cardoso-perrud/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/thiago-cardoso-perrud/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=flat)](<a href="mailto:thiagocperrud@gmail.com">)
 
 ## Habilidades
